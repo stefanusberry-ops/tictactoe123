@@ -1,0 +1,7 @@
+{
+  "display": "standalone",
+  "lang": "en",
+  "name": "TicTacToe",
+  "short_name": "TicTacToe",
+  "start_url": "/?utm_source=web_app_manifest"
+}
