@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/static/js/main.316f51b0.js",
-    "static/js/351.605eb364.js": "/static/js/351.605eb364.js",
-    "index.html": "/index.html",
-    "serve.json": "/serve.json",
-    "manifest.json": "/manifest.json",
-    "main.316f51b0.js.map": "/static/js/main.316f51b0.js.map",
-    "351.605eb364.js.map": "/static/js/351.605eb364.js.map"
+    "main.js": "/tictactoe123/static/js/main.316f51b0.js",
+    "static/js/351.605eb364.js": "/tictactoe123/static/js/351.605eb364.js",
+    "index.html": "/tictactoe123/index.html",
+    "serve.json": "/tictactoe123/serve.json",
+    "manifest.json": "/tictactoe123/manifest.json",
+    "main.316f51b0.js.map": "/tictactoe123/static/js/main.316f51b0.js.map",
+    "351.605eb364.js.map": "/tictactoe123/static/js/351.605eb364.js.map"
   },
   "entrypoints": [
     "static/js/351.605eb364.js",
